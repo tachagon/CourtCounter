@@ -9,4 +9,4 @@ I have learned how to make my app interactive using buttons and changing text fr
 
 ### Example of Application
 
-![Example of tatchagon's Basketball Scores App](https://i.imgur.com/uJdXm0r.png)
+![Example of tatchagon's Basketball Scores App](https://i.imgur.com/uJdXm0rl.png)
